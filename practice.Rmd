@@ -1,0 +1,11 @@
+---
+title: "practice"
+output: html_document
+---
+
+```{r}
+library(yaml)
+library(rmarkdown)
+library(knitr)
+```
+
